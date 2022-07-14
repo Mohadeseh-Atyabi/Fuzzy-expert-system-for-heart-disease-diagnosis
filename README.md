@@ -57,6 +57,11 @@ To calculate the center of mass, we use the following formula:
 
 ![image](https://user-images.githubusercontent.com/72689599/179029542-556480e1-1266-422c-b8b2-d7d9d570715f.png)
 
-
+## How to run the project
+To install the requirements and used libraries, first enter the main directory and then install the requirements using the command below.
+```
+pip install -r requirements.txt
+```
+In the [app.py](app.py) file, the server is running on port 8448 and you should not change this file. Also, in the [final_result.py](final_result.py) file, in the get_final_result method, a dictionary of the parameters in the problem is given to you in its input, and you must use this dictionary. Also, at the end, you must return the final result (health status), which must be of string type, in the get_final_result method.
 
 
