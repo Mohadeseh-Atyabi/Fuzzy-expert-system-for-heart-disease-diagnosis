@@ -1,5 +1,8 @@
 # Fuzzy-expert-system-for-heart-disease-diagnosis
-In this project, our goal is to design a fuzzy expert system to detect whether a person has heart disease. The inputs to this problem include the following:
+In this project, our goal is to design a fuzzy expert system to detect whether a person has heart disease. 
+
+## Inputs
+The inputs to this problem include the following:
 
 - Blood pressure:
 ![image](https://user-images.githubusercontent.com/72689599/179025325-0aa9ce04-0b41-4391-88ba-286407666736.png)
